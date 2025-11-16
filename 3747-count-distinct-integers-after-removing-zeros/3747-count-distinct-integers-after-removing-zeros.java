@@ -2,60 +2,45 @@ class Solution {
 
     private long pow9(int p){
         long ans = 1;
-
-        for(int i = 1; i <= p; i++){
-            ans *= 9;
-        }
+        while(p-- > 0) ans *= 9;
         return ans;
     }
-
-    private boolean isPow10(long n){
+    public long countDistinct(long n) {
+        
         long temp = n;
 
-        while(temp >= 10 && temp%10 == 0){
-            temp /= 10;
-        }
-        if(temp == 1){
-            System.out.println("true");
-            return true;
-        }
-        else return false;
-    }
+        int currPow = 0;
+        long currDist = 0;
 
-    public long countDistinct(long n) {
+        while(temp != 0){
+            String s = String.valueOf(n);
+            int len = s.length();
+            long result = 0;
 
-        String s = String.valueOf(n);
-        int len = s.length();
-
-        long ans = 0;
-
-        // count numbers with fewer digits than n
-        for (int digits = 1; digits < len; digits++) {
-            ans += pow9(digits);
-        }
-
-        // now process digit by digit for numbers with same length
-        boolean tight = true;
-
-        for (int i = 0; i < len; i++) {
-            int currDigit = s.charAt(i) - '0';
-
-            if (currDigit == 0) {
-                // if digit becomes zero, no further valid numbers exist
-                tight = false;
-                break;
+            for(int i = 1; i < len; i++){
+                result += pow9(i);
             }
 
-            // count digits smaller than currDigit but ≥ 1
-            int choices = currDigit - 1;
+            for(int i =0; i < len; i++){
+                int digit = s.charAt(i) - '0';
 
-            ans += choices * pow9(len - i - 1);
+                if(digit == 0) return result;
+                
+                int choices = digit - 1;
+                result += (digit - 1)*pow9(len - i -1);
+            }
+
+            return result+1;
         }
 
-        // if tight remained true, the number n itself has no zero → count it
-        if (tight) ans += 1;
-
-        return ans;
+        return currDist;
     }
 }
 
+
+// while(temp/10 != 0){
+        //     int currMultiplier = temp/10;
+        //     temp = temp-((10^curr10pow)*currMultiplier);
+            
+        // }
+        // currDist += temp;
