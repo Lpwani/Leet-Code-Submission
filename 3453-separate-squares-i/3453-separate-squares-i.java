@@ -36,7 +36,7 @@ class Solution {
 
         double mid = 0.0;
 
-        for(int i = 0; i <= 30; i++){
+        for(int i = 0; i <= 80; i++){
             mid = (low + high)/2.0;
 
             // we must treat equality as move left since we want minimum value
