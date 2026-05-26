@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1871-jump-game-vii/) | Medium |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -34,4 +35,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1871-jump-game-vii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1871-jump-game-vii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3120-count-the-number-of-special-characters-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 <!---LeetCode Topics End-->
