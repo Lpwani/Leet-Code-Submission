@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1340-jump-game-v](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1340-jump-game-v/) | Hard |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [2126-destroying-asteroids](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1340-jump-game-v/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -68,4 +70,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2126-destroying-asteroids](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2126-destroying-asteroids/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 <!---LeetCode Topics End-->
