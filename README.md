@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3838-weighted-word-mapping](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [3838-weighted-word-mapping](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3838-weighted-word-mapping/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
