@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -127,4 +128,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
