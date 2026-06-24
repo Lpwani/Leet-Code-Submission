@@ -1,31 +1,41 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
 
+        //counting array version
 
-        // generalized hashmap version solution
+        int ref[] = new int[26];
+        int textOcc[] = new int[26];
 
-        HashMap<Character, Integer> ref = new HashMap<>();
-
-        ref.put('b',1);
-        ref.put('a', 1);
-        ref.put('l', 2);
-        ref.put('o', 2);
-        ref.put('n', 1);
-
-        HashMap<Character, Integer> txtMp =  new HashMap<>();
+        ref['a'-'a'] = 1;
+        ref['b' - 'a'] = 1;
+        ref['l' - 'a'] = 2;
+        ref['o' - 'a'] = 2;
+        ref['n' - 'a'] = 1;
 
         for(int i = 0; i < text.length(); i++){
-            char curr = text.charAt(i);
-            txtMp.put(curr,txtMp.getOrDefault(curr,0)+1);
+            textOcc[text.charAt(i) - 'a']++;
         }
 
-        int minOcc = Integer.MAX_VALUE;
-        for(char key : ref.keySet()){
-            int occ = txtMp.getOrDefault(key,0)/ref.get(key);
+        int minAns = Integer.MAX_VALUE;
 
-            minOcc = Math.min(occ,minOcc);
+        for(int i = 0; i < 26; i++){
+            if(ref[i] == 0) continue;
+            int currOcc = textOcc[i]/ref[i];
+
+            minAns = Math.min(minAns,currOcc); 
         }
-
-        return minOcc;
+    
+        return minAns;
     }
 }
+
+// System.out.println((int)'a'+" "+(int)'z');
+// 97 122
+
+
+// System.out.println((int)'l' - (int)'a');
+// // 11
+// System.out.println((int)'o' - (int)'a');
+// // 14
+// System.out.println((int)'n' - (int)'a');
+// // 13
