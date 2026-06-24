@@ -1,5 +1,9 @@
 class Solution {
     public int maxNumberOfBalloons(String text) {
+
+
+        // generalized hashmap version solution
+
         HashMap<Character, Integer> ref = new HashMap<>();
 
         ref.put('b',1);
