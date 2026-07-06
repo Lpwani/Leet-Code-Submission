@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3689-maximum-total-subarray-value-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3838-weighted-word-mapping/) | Easy |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3976-maximum-subarray-sum-after-multiplier/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
+| [3976-maximum-subarray-sum-after-multiplier](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3976-maximum-subarray-sum-after-multiplier/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
