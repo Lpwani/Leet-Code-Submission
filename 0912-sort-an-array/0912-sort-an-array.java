@@ -1,5 +1,7 @@
 class Solution {
 
+    // Heap Sort implementation
+
     public void heapify(int nums[], int n, int i){
 
         int left = i*2 + 1;
@@ -23,7 +25,7 @@ class Solution {
     public void buildHeap(int nums[]){
         int n = nums.length;
 
-        for(int i = (n-1)/2; i >= 0; i--){
+        for(int i = (n-2)/2; i >= 0; i--){
             heapify(nums,n, i);
         }
     } 
