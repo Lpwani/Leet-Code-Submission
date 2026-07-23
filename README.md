@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1840-maximum-building-height](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1840-maximum-building-height/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
@@ -149,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
