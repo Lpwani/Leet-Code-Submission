@@ -1,7 +1,7 @@
 class Solution {
     public int maximumProduct(int[] nums) {
         // observation based optimized approach
-        // Time complexity = O(1)
+        // Time complexity = O(nlogn)
         // Space Complexity = O(1)
 
         int ans = Integer.MIN_VALUE;
