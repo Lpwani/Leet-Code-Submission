@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0912-sort-an-array/) | Medium |
 | [1340-jump-game-v](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1340-jump-game-v/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1840-maximum-building-height/) | Hard |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0628-maximum-product-of-three-numbers](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0912-sort-an-array](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0912-sort-an-array/) | Medium |
 | [1340-jump-game-v](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1340-jump-game-v/) | Hard |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2126-destroying-asteroids/) | Medium |
@@ -155,6 +157,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0912-sort-an-array/) | Medium |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
