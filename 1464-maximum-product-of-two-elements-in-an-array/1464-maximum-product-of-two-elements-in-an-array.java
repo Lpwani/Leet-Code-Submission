@@ -1,14 +1,35 @@
 class Solution {
     public int maxProduct(int[] nums) {
         
-        // unoptimized whole array sort approach
-        // time complexity = O(NlogN)
+        // optimized four magic number approach
+        // time complexity = O(1)
         // Space complexity = O(1)
 
         int n = nums.length;
 
-        Arrays.sort(nums);
+        int mx1 = Integer.MIN_VALUE, mx2 = Integer.MIN_VALUE;
+        int mn1 = Integer.MAX_VALUE, mn2 = Integer.MAX_VALUE;
 
-        return Math.max((nums[n-1]-1)*(nums[n-2]-1), (nums[0]-1)*(nums[1]-1));
+        for(int i = 0; i < n; i++){
+            int curr = nums[i];
+
+            if(mx1 < curr){
+                mx2 = mx1;
+                mx1 = curr;
+            }
+            else if(mx2 < curr){
+                mx2 = curr;
+            }
+
+            if(mn1 > curr){
+                mn2 = mn1;
+                mn1 = curr;
+            }
+            else if(mn2 > curr){
+                mn2 = curr;
+            }
+        }
+
+        return Math.max((mx1-1)*(mx2-1), (mn1-1)*(mn2-1));
     }
 }
