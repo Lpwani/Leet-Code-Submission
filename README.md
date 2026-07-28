@@ -56,6 +56,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3093-longest-common-suffix-queries](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3612-process-string-with-special-operations-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3838-weighted-word-mapping](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3838-weighted-word-mapping/) | Easy |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0912-sort-an-array/) | Medium |
 | [1189-maximum-number-of-balloons](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
