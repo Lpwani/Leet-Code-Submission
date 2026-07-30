@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1871-jump-game-vii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1871-jump-game-vii/) | Medium |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -98,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [1840-maximum-building-height](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1840-maximum-building-height/) | Hard |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3513-number-of-unique-xor-triplets-i/) | Medium |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3514-number-of-unique-xor-triplets-ii/) | Medium |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3689-maximum-total-subarray-value-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Enumeration
