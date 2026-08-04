@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3731-find-missing-elements/) | Easy |
 | [3838-weighted-word-mapping](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3976-maximum-subarray-sum-after-multiplier/) | Medium |
 ## Binary Search
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3536-maximum-product-of-two-digits/) | Easy |
+| [3731-find-missing-elements](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
+| [3731-find-missing-elements](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3731-find-missing-elements/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
