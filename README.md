@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2574-left-and-right-sum-differences/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3161-block-placement-queries](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3161-block-placement-queries/) | Hard |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -57,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1840-maximum-building-height](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1840-maximum-building-height/) | Hard |
 | [2126-destroying-asteroids](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3536-maximum-product-of-two-digits](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3731-find-missing-elements](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3731-find-missing-elements/) | Easy |
@@ -90,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
