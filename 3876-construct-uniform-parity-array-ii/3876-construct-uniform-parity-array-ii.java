@@ -1,5 +1,9 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
+
+        // Wasted sort extra time approach
+        // Time complexity :- O(nlogn)
+        // Space complexity :- O(1)
         
         Arrays.sort(nums1);
 
