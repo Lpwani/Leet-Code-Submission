@@ -1,7 +1,7 @@
 class Solution {
     public boolean uniformArray(int[] nums1) {
 
-        // Wasted sort extra time approach
+        // Optimized approach
         // Time complexity :- O(n)
         // Space complexity : O(1)
         
