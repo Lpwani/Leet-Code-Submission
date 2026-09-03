@@ -2,19 +2,16 @@ class Solution {
     public boolean uniformArray(int[] nums1) {
 
         // Wasted sort extra time approach
-        // Time complexity :- O(nlogn)
-        // Space complexity :- O(1)
+        // Time complexity :- O(n)
+        // Space complexity : O(1)
         
-        Arrays.sort(nums1);
+        // Arrays.sort(nums1);
 
         int n = nums1.length;
         int smallOdd = Integer.MAX_VALUE;
         int smallEven = Integer.MAX_VALUE;
 
         for(int i = 0; i < n; i++){
-            if(smallEven != Integer.MAX_VALUE && smallOdd != Integer.MAX_VALUE){
-                break;
-            }
             if(nums1[i] % 2 == 0){
                 smallEven = Math.min(smallEven, nums1[i]);
             }
