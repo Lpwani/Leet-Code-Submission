@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3838-weighted-word-mapping](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3838-weighted-word-mapping/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3976-maximum-subarray-sum-after-multiplier](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3976-maximum-subarray-sum-after-multiplier/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -93,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1871-jump-game-vii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
