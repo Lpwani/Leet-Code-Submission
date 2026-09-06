@@ -45,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0115-distinct-subsequences/) | Hard |
 | [0198-house-robber](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0198-house-robber/) | Medium |
 | [1340-jump-game-v](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1871-jump-game-vii/) | Medium |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0115-distinct-subsequences/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1871-jump-game-vii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1871-jump-game-vii/) | Medium |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
