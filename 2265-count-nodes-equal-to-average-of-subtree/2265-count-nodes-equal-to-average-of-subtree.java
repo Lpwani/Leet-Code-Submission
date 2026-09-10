@@ -17,60 +17,39 @@ class Solution {
 
     int ans = 0;
 
-    public int numNodesSubtree(TreeNode root){
-        if(root == null) return 0;
+    class pair{
+        int sum;
+        int cnt;
 
-        int left;
-        if(root.left != null){
-            left = 1 + numNodesSubtree(root.left);
+        pair(){
+            sum = 0;
+            cnt = 0;
         }
-        else{
-            left = numNodesSubtree(root.left);
+        pair(int sum, int cnt){
+            this.sum = sum;
+            this.cnt = cnt;
         }
-        
-        int right;
-        if(root.right != null){
-            right = 1 + numNodesSubtree(root.right);
-        }
-        else{
-            right = numNodesSubtree(root.right);
-        }
-
-        return 1 + left + right;
     }
 
-    public int nodesAvg(TreeNode root){
+    public pair nodesAvg(TreeNode root){
         
-        if(root == null) return 0;
+        if(root == null) return new pair(0,0);
 
-        int left;
+        pair left = nodesAvg(root.left);
+        pair right = nodesAvg(root.right);
 
-        if(root.left != null){
-            left = root.left.val + nodesAvg(root.left);
-        }
-        else left = nodesAvg(root.left);
-
-        int right;
-        if(root.right != null){
-            right = root.right.val + nodesAvg(root.right);
-        }
-        else{
-            right = nodesAvg(root.right);
-        }
-
-        int sum = root.val + left + right;
-
-        int cnt = numNodesSubtree(root);
+        int sum = root.val + left.sum + right.sum;
+        int cnt = 1 + left.cnt + right.cnt;
 
         if(sum/cnt == root.val) ans++;
-        
-        return sum;
+
+        return new pair(sum, cnt);
 
     }
 
     public int averageOfSubtree(TreeNode root) {
         
-        // Time Complexity : O(N^2)
+        // Time Complexity : O(N)
         // Space Complexity : O(H)
 
         nodesAvg(root);
