@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0198-house-robber](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0198-house-robber/) | Medium |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
+| [0835-image-overlap](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0835-image-overlap/) | Medium |
 | [0912-sort-an-array](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0912-sort-an-array/) | Medium |
 | [1340-jump-game-v](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -268,4 +269,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0835-image-overlap](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0835-image-overlap/) | Medium |
 <!---LeetCode Topics End-->
