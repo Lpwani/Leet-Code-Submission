@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1340-jump-game-v](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1340-jump-game-v/) | Hard |
 | [1871-jump-game-vii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1871-jump-game-vii/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3559-number-of-ways-to-assign-edge-weights-ii/) | Hard |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -84,6 +85,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0940-distinct-subsequences-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1189-maximum-number-of-balloons](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1871-jump-game-vii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1871-jump-game-vii/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3093-longest-common-suffix-queries](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3093-longest-common-suffix-queries/) | Hard |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
@@ -162,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1833-maximum-ice-cream-bars](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2126-destroying-asteroids](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2126-destroying-asteroids/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3689-maximum-total-subarray-value-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
