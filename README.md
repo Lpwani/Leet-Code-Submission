@@ -53,6 +53,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0198-house-robber/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1340-jump-game-v](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1340-jump-game-v/) | Hard |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1871-jump-game-vii/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1871-jump-game-vii/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3699-number-of-zigzag-arrays-i/) | Hard |
@@ -130,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0628-maximum-product-of-three-numbers/) | Easy |
 | [0836-rectangle-overlap](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0836-rectangle-overlap/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1840-maximum-building-height](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1840-maximum-building-height/) | Hard |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3014-minimum-number-of-pushes-to-type-word-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -261,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3518-smallest-palindromic-rearrangement-ii/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
