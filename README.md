@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0912-sort-an-array](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0912-sort-an-array/) | Medium |
 | [1340-jump-game-v](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1340-jump-game-v/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1840-maximum-building-height](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1840-maximum-building-height/) | Hard |
@@ -44,6 +45,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [3161-block-placement-queries](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3161-block-placement-queries/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Lpwani/Leet-Code-Submission/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Dynamic Programming
@@ -53,6 +55,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0198-house-robber/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1340-jump-game-v](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1340-jump-game-v/) | Hard |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1871-jump-game-vii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1871-jump-game-vii/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -100,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1871-jump-game-vii](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1871-jump-game-vii/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 ## Prefix Sum
@@ -115,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2958-length-of-longest-subarray-with-at-most-k-frequency/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Lpwani/Leet-Code-Submission/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
