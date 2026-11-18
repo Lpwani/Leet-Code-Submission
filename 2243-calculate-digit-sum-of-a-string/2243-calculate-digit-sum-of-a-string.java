@@ -1,41 +1,30 @@
 class Solution {
     public String digitSum(String s, int k) {
 
+        // cleaner approach
 
-        // Worst an unmotivated solution of my entire life.....
-        // unrevised java concept
+        String temp = s;
+        while(temp.length() > k){
+            StringBuilder sb = new StringBuilder();
 
-        // ArrayList<String> temp = new ArrayList<>();
+            for(int ptr = 0; ptr < temp.length(); ptr = ptr+k){
 
-        int curr = s.length();
-        String temp = new String(s);
-        String xtemp = "";
+                int end = (ptr + k < temp.length())?ptr + k : temp.length();
+                
+                int value = 0;
 
-        while(curr > k){
-            int ptr = 0;
-            xtemp = "";
-            while(ptr < curr){
-                int end = (ptr+k < curr)?ptr+k:curr;
-                String currBatch = temp.substring(ptr, end);
-                // System.out.println(currBatch+" "+ ptr + " "+ end + " "+curr);
-                Integer currVal = 0;
-                for(int i = 0; i < currBatch.length(); i++){
-                    currVal += (int)currBatch.charAt(i) - (int)'0';
+                for(int i = ptr; i < end; i++){
+                    value += temp.charAt(i) - '0';
                 }
-                // System.out.println(currVal+" ");
-                xtemp = xtemp +""+currVal.toString();
-                System.out.println(xtemp);
-                ptr = ptr + k;
+
+                sb.append(value);
             }
 
-            temp = xtemp;
+            temp = sb.toString();
 
-            // curr = (int)Math.ceil(curr/k);
-            curr = temp.length();
-
-            // System.out.println(curr +" "+ k);
         }
 
         return temp;
+        
     }
 }
